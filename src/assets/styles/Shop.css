@@ -1,0 +1,29 @@
+.greatericon{
+    background-color: blue;
+    color: aliceblue;
+    width: 35px;
+    height: 40px;
+    position: relative;
+    left: 49vh;
+    top: 7px;
+  }
+  .greatericon:hover{
+    background-color: black;
+  }
+  .shopbtn{
+    position: relative;
+    top: 40px;
+    right: 40vh;
+    width: 20vh;
+    height: 40px;
+    color: aliceblue;
+    background-color: rgb(74, 74, 246);
+ }
+ .shopbtn:hover{
+    background-color: black;
+    color: aliceblue;
+ }
+ li a{
+    color: rgb(6, 184, 254);
+ }
+ 

@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.headerPart{
+    height: "100vh";
+    /* margin: 2%; */
+    padding: 2%;
+    background: #d6d1d1;
+}
+h1{
+    margin-left: 46%;
+    margin-bottom: 13px;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bold;
+}
+nav {
+  display: flex;
+  flex-direction: row;
+ justify-content: center;
+ gap: 6vh;
+}
+/* nav ul {
+ display: flex;
+ flex-direction: row;
+ list-style: none;
+ 
+}
+  li a{
+    margin-left: 10px;
+    text-decoration: none;
+     color: black;
+} */
+h3{
+    margin-top: 10vh;
+    margin-left: 3%;
+}
+.Beauty{
+    margin-left: 3%;
+    margin-top: 13vh;
+    font-size:100px;
+    font-weight: lighter;
+}
+p{
+    margin-right: 30%;
+    margin-left: 3%;
+}
+button{
+    margin-top: 10vh;
+    margin-left: 3%;
+    height: 40px;
+    width: 30vh;
+    text-align: center;
+    font-size: 15px;
+}
+/* .card{
+    display: flex;
+    justify-content: space-between;
+    gap: 3;
+} */
+.greatericon{
+    background-color: blue;
+    color: aliceblue;
+    width: 30px;
+    height: 20px;
+  }
